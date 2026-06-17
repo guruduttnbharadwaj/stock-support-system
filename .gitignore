@@ -2,15 +2,11 @@
 node_modules/
 dist/
 .env
-
-
 __pycache__/
 *.py[cod]
 *$py.class
 venv/
 env/
 .pytest_cache/
-
-
 *.pkl
 *.joblib
